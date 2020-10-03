@@ -15,5 +15,6 @@ The pivot table i created based off the outcomes and parent category, stated bef
 
 In May we can see it was a good month for projects out of the total 166 projects 111 were successful! 
 
-![image_name] (rescoures/Theater_Outcomes_vs_Launch.png)
+![image_name](rescoures/Theater_Outcomes_vs_Launch.png)
+
 
