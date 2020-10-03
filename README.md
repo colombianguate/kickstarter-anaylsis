@@ -18,3 +18,12 @@ In May we can see it was a good month for projects out of the total 166 projects
 ![image_name](rescoures/Theater_Outcomes_vs_Launch.png)
 
 
+### Analysis of Outcomes Based on Goals
+
+In the second deliverable, we are dealing more with formulas to see the numbers on outcomes based of goal. 
+
+At first glance the outcomes based of the goal of less then $1,000 were the most successful. 
+
+![image_name](rescoures/Outcomes_vs_Goals.png)
+
+A suprisgnly succesful was the goal from $35,00 - $39,999 because as seen in the line chart after a goal of $1,000 the percentage of succesful outcomes was decreasing. So based of this line chart if I wanted my campaign to be succesful I would start with goal of less then $1,000.
